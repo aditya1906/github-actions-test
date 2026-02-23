@@ -8,6 +8,8 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assertEqual(1 + 1, 3);
+		assertTrue(true);
 	}
 
 }
