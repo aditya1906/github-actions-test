@@ -1,4 +1,4 @@
-name: Maven Build Check
+name: Maven JUnit Test Check
 
 on:
   pull_request
